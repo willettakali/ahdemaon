@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohbikadeng.dohodathi.de/sitemap.xml
